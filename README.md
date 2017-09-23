@@ -1,7 +1,7 @@
 # MiniProjects
 This includes some freewares build in C / Java and is provided for others to understand and build something new by understanding its working behaviour.
 
-- File Locking Software 
+- File Locking Softwares 
 
    - filelocker.jar ( require JavaSE )
 
@@ -11,7 +11,7 @@ This includes some freewares build in C / Java and is provided for others to und
 
    - FileSmasher.jar ( require JavaSE )
 
-- Encryptor / Decryptor  Softwares
+- Encryptor / Decryptor  Software
 
    - EnCrYpT-DeCrYpT.EXE ( require TURBO C )
 
@@ -19,7 +19,7 @@ This includes some freewares build in C / Java and is provided for others to und
 
    - FileCopier.jar ( require JavaSE-8 )
 
-- Junk file removal Softwares
+- Junk file removal Software
 
    - OpenCleaner.jar ( require JavaSE )
 
