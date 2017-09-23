@@ -7,7 +7,7 @@ This includes some freewares build in C / Java and is provided for others to und
 
    - Endcrypt.jar ( require JavaSE )
 
-- Permanently file Deteling Software
+- Permanently file Deleting Software
 
    - FileSmasher.jar ( require JavaSE )
 
