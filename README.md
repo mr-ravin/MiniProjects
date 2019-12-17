@@ -29,3 +29,4 @@ This includes some freewares build in C / Java and is provided for others to und
    
    - ENHANCER.EXE ( require Windows 32 bit, turbo C )
     
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
