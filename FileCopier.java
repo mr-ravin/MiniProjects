@@ -4,7 +4,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.*;
 import java.nio.channels.*;
-class CopyProg extends JFrame implements ActionListener , MouseListener
+class FileCopier extends JFrame implements ActionListener , MouseListener
 {
 //Date d;
 String filename1,filename2,text;
@@ -112,7 +112,7 @@ catch(Exception e)
 }
 public static void main(String args[])
 {
-CopyProg obj=new CopyProg();
+FileCopier obj=new FileCopier();
 obj.launch();
 }
 }
