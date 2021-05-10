@@ -9,7 +9,7 @@ This includes some freewares build in C / Java and is provided for others to und
 
    - Endcrypt.jar ( require JavaSE )
 
-- Permanently file Deleting Software
+- Permanent File Deletion Software
 
    - FileSmasher.jar ( require JavaSE )
 
@@ -21,7 +21,7 @@ This includes some freewares build in C / Java and is provided for others to und
 
    - FileCopier.jar ( require JavaSE-8 )
 
-- Junk file removal Software
+- Junk File Removal Software
 
    - OpenCleaner.jar ( require JavaSE )
 
